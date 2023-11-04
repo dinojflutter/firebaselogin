@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876954933534",
+    "project_id": "authotp-f4120",
+    "storage_bucket": "authotp-f4120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876954933534:android:f2961629ae55ab69e9510f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_verification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzI2AE2LRk86ShkWD_CgzyrZ1G04ytCoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
